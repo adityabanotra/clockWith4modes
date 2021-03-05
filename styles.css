@@ -133,17 +133,7 @@ p{
     color: rgb(255, 255, 255);
     z-index: 10;
 }
-/* 
-#digital
-{
-   
-  height: 150px;
-    width: 550px;
-    border: 20px solid rgb(255, 255, 255);
-    position: absolute;
-    margin: 150px;
-    padding: 50px;
-} */
+
 
 .digclock {
     margin-top: 60px;
