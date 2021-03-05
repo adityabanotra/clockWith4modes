@@ -15,8 +15,8 @@ document.getElementsByClassName("outline")[0].onclick = function () {
         
     } else {
         
-        hTag.classList.remove("color-white");
-        bodyTag.classList.remove("bck-color-black");
+//         hTag.classList.remove("color-white");
+//         bodyTag.classList.remove("bck-color-black");
         circle.style.marginLeft = "1px";
         
         toggled = false;
