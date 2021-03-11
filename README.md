@@ -7,7 +7,7 @@ The degree with which each needle is rotating is as :-
     var minDegree = (minutes/60)*360 +90;
     var hourDegree = ((hours%12)/12)*360+90;
     
- You Can visit it [here](https://adityabanotra.github.io/clockWith4modes/)   
+ You can visit it [here](https://adityabanotra.github.io/clockWith4modes/)   
  
  
     
